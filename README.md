@@ -1,4 +1,6 @@
-# SpaceX Site Clone
+# SpaceX Site Clone 
+
+[https://spacex-site-clone.netlify.app/](https://spacex-site-clone.netlify.app/)
 
 HTML/CSS/JS SpaceX website clone project from the [YouTube tutorial](https://www.youtube.com/watch?v=wryPX7KSwSc) by [Brad Traversy](https://github.com/bradtraversy/spacex-website).
 
