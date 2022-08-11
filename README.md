@@ -1,4 +1,4 @@
-# SpaceX Website Clone
+# SpaceX Site Clone
 
 HTML/CSS/JS SpaceX website clone project from the [YouTube tutorial](https://www.youtube.com/watch?v=wryPX7KSwSc) by [Brad Traversy](https://github.com/bradtraversy/spacex-website).
 
